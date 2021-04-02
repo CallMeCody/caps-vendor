@@ -1,0 +1,25 @@
+{
+  "name": "caps-vendor",
+  "version": "1.0.0",
+  "description": "vendor app",
+  "main": "vendor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallMeCody/caps-vendor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CallMeCody/caps-vendor/issues"
+  },
+  "homepage": "https://github.com/CallMeCody/caps-vendor#readme",
+  "dependencies": {
+    "faker": "^5.5.2",
+    "socket.io": "^2.4.1",
+    "socket.io-client": "^2.4.0"
+  }
+}
